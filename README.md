@@ -1,5 +1,6 @@
 # 🎬 Proyecto Recomendador de Películas 🎥
-Descripción General
+Descripción General:
+
 Este proyecto tiene como objetivo desarrollar una API para un sistema de recomendación de películas utilizando datos de películas, actores y equipos de producción. El proyecto incluye procesos de ETL (Extracción, Transformación y Carga), Análisis Exploratorio de Datos (EDA), implementación de funciones específicas y la creación de un algoritmo de recomendación de películas.
 _______________________________________________________________________________________________________________________________________________________
 # 📚 Tabla de Contenidos
@@ -10,7 +11,8 @@ Algoritmo de Recomendación
 Conclusiones
 _______________________________________________________________________________________________________________________________________________________
 # 🔄 ETL
-🛠️ Extracción
+🛠️ Extracción:
+
 La extracción de datos se realizó a partir de un conjunto de archivos CSV que contienen información sobre películas, actores y el equipo de producción. Los datos incluyen detalles como el presupuesto de la película, el retorno de inversión, los géneros, el equipo de producción, entre otros.
 
 🧹 Transformación
